@@ -1,0 +1,137 @@
+{
+  "nominaciones": [
+    {
+      "id": 1,
+      "categoria": "El/la más vibecoder",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado1.jpg",
+      "color": "#FF6B6B"
+    },
+    {
+      "id": 2,
+      "categoria": "El/la velador/a del G4",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado2.jpg",
+      "color": "#4ECDC4"
+    },
+    {
+      "id": 3,
+      "categoria": "El/la más visionario/a",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado3.jpg",
+      "color": "#45B7D1"
+    },
+    {
+      "id": 4,
+      "categoria": "El/la más institucional",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado4.jpg",
+      "color": "#FFA07A"
+    },
+    {
+      "id": 5,
+      "categoria": "El/la mejor networker",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado5.jpg",
+      "color": "#98D8C8"
+    },
+    {
+      "id": 6,
+      "categoria": "El/la más \"lo reviso y te aviso\"",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado6.jpg",
+      "color": "#F7DC6F"
+    },
+    {
+      "id": 7,
+      "categoria": "El/la de la agenda siempre llena",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado7.jpg",
+      "color": "#BB8FCE"
+    },
+    {
+      "id": 8,
+      "categoria": "El/la más rápido/a para contestar",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado8.jpg",
+      "color": "#85C1E2"
+    },
+    {
+      "id": 9,
+      "categoria": "El/la que nunca contesta",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado9.jpg",
+      "color": "#F8B88B"
+    },
+    {
+      "id": 10,
+      "categoria": "El/la CEO de los cafés",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado10.jpg",
+      "color": "#ABEBC6"
+    },
+    {
+      "id": 11,
+      "categoria": "El mejor regreso",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado11.jpg",
+      "color": "#D7BDE2"
+    },
+    {
+      "id": 12,
+      "categoria": "El más dejabajo",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado12.jpg",
+      "color": "#F8B4D6"
+    },
+    {
+      "id": 13,
+      "categoria": "El más joto",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado13.jpg",
+      "color": "#F1948A"
+    },
+    {
+      "id": 14,
+      "categoria": "El más borracho",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado14.jpg",
+      "color": "#82E0AA"
+    },
+    {
+      "id": 15,
+      "categoria": "El más tacaño",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado15.jpg",
+      "color": "#85C1E9"
+    },
+    {
+      "id": 16,
+      "categoria": "El más malacopa",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado16.jpg",
+      "color": "#F9E79F"
+    },
+    {
+      "id": 17,
+      "categoria": "El más guapo",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado17.jpg",
+      "color": "#F5B7B1"
+    },
+    {
+      "id": 18,
+      "categoria": "El más glotón",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado18.jpg",
+      "color": "#D5F4E6"
+    },
+    {
+      "id": 19,
+      "categoria": "El más pendejo",
+      "nombre": "Nombre del Nominado",
+      "foto": "/nominees/nominado19.jpg",
+      "color": "#FADBD8"
+    }
+  ]
+}
